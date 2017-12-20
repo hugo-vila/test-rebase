@@ -1,0 +1,23 @@
+{
+  "name": "test-rebase",
+  "version": "1.0.0",
+  "description": "Test git rebase tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugo-vila/test-rebase.git"
+  },
+  "keywords": [
+    "git",
+    "rebase"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugo-vila/test-rebase/issues"
+  },
+  "homepage": "https://github.com/hugo-vila/test-rebase#readme"
+}
