@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/hugo-vila/test-rebase/issues"
   },
-  "homepage": "https://github.com/hugo-vila/test-rebase#readme"
+  "homepage": "https://github.com/hugo-vila/test-rebase#readme",
+  "dependencies": {
+    "sort-by": "^1.2.0"
+  }
 }
