@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/hugo-vila/test-rebase#readme",
   "dependencies": {
+    "escape-string-regexp": "^1.0.5",
     "sort-by": "^1.2.0"
   }
 }
